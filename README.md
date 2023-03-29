@@ -11,7 +11,7 @@
 * [Bibliotecas](#bibliotecas)
 
 # Descrição do projeto
-> Este repositório é meu projeto Python de automação web (web-scrapping) e envio de e-mail com informações para as compras de produtos online. A partir da base de dados com os produtos de interesse, o objetivo do projeto foi encontrar as melhores ofertas no Google Shopping e, com as informações coletadas, enviar um e-mail com os valores e os links de compras dos produtos.
+> Este repositório é meu projeto Python de automação web (web-scrapping) e envio de e-mail com informações para as compras de produtos online. A partir da base de dados com os produtos de interesse, o objetivo do projeto foi encontrar as melhores ofertas no Google Shopping e, com as informações coletadas, enviar um e-mail com os valores e os links de compras dos produtos no corpo do e-mail e no arquivo anexado.
 
 # Funcionalidades e Demonstração da Aplicação
 
